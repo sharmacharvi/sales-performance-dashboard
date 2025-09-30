@@ -1,8 +1,8 @@
 # Sales-performance-dashboard
 Sales Performance Dashboard analyzing  sales, top products, and  growth using Excel
 
-Tools: Excel
+Tools: Excel,Tableau
 Dataset: Kaggle 
-Features:  Category Sales, Top Products, Payment Mode Analysis,Monthly Sales
+Features: Revenue, YoY growth, regional sales, top-selling products
 
 
