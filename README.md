@@ -1,9 +1,9 @@
 # Sales-performance-dashboard
 Sales Performance Dashboard analyzing  sales, top products, and  growth using Excel
 
-Tools: Excel,Tableau
-Dataset: Kaggle 
-Features: Revenue, YoY growth, regional sales, top-selling products
+Tools: Excel,Tableau    
+Dataset: Kaggle (Author Bhumika)    
+Features: Revenue, YoY growth, regional sales, top-selling products   
 # 📊 Sales Performance Dashboard (Tableau Project)
 
 This project is a **Sales Performance Dashboard** built using **Tableau**, based on a retail sales dataset.  
@@ -18,18 +18,6 @@ It showcases insights such as:
 
 ---
 
-## 📂 Folder Structure
-sales-performance-dashboard/
-│
-├─ dataset/
-│    └─ Sales-Dashboard-project.xlsx   ✅ (Rename your file for clean naming)
-│
-├─ tableau/
-│    └─ SalesDashboard.twbx            ✅ (Export your Tableau workbook here)
-│
-└─ README.md                          ✅ (Project description)
-
----
 
 ## 📁 Dataset
 
