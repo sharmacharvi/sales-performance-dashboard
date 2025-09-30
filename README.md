@@ -1,5 +1,5 @@
 # Sales-performance-dashboard
-Sales Performance Dashboard analyzing  sales, top products, and  growth using Excel
+Sales Performance Dashboard analyzing  sales, top products, and  growth using Tableau
 
 Tools: Excel,Tableau    
 Dataset: Kaggle (Author Bhumika)    
